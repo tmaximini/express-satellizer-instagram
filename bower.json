@@ -1,0 +1,22 @@
+{
+  "name": "instragram-clone",
+  "version": "1.0.0",
+  "authors": [
+    "Thomas Maximini <tmaximini@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-route": "~1.4.3",
+    "angular-messages": "~1.4.3",
+    "satellizer": "~0.11.3"
+  }
+}
